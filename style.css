@@ -18,6 +18,17 @@ h1 {
         body {
             background-color:rgb(236, 244, 26);
             }
+h2 {
+    color:rgb(235, 15, 216);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    background-color:rgb(22, 220, 22);
+    border:5px dotted rgb(26, 33, 213);
+    padding:50px;
+    .center-heading {
+        text-align: center;
+      }
+}
             
         h3 {
         color: rgb(15, 237, 15) (195, 195, 206);
@@ -33,6 +44,10 @@ h1 {
                     height:20%;
                     margin-left:220px; margin-right:220px;
                     }
+                img {border: 5px solid rgb(241, 238, 47);
+                    width:70%;
+                    height:20%;
+                    margin-left:220px; margin-right:220px;}
                                   
                 h1 {
                     color:rgb(235, 15, 216);
